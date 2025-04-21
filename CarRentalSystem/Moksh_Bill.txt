@@ -1,0 +1,5 @@
+============== Bill ==============
+CarType	Model		AC Charges	RentPerHour	Total
+suv	Toyota Fortuner	1200	5000		 16200
+-------------------------------------------------
+	Grand Total : 16200

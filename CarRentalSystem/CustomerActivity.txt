@@ -1,0 +1,6 @@
+Name	CarType	NameOfModel	TotalRent	BookedDate	ReturnDate
+
+Krish	Hatchback	Ford Figo	3400	02/02/2025	---
+Mohit	SUV	Jeep Compass	4500	13/01/2025	13/01/2025
+Moksh	suv	Toyota Fortuner	16200	sddsdsd	---
+Ashutosh	suv	Mahindra Scorpio	14000	s	122
