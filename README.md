@@ -29,15 +29,14 @@ CarRentalSystem/ ├── CarsDetails/ # Contains car detail documents ├─�
 2. Install dependencies:
     pip install -r requirements.txt
 
-##Usage
-Run the application:
-python main.py
+## Usage
+- **Run the application:** python main.py
 
-Follow the on-screen instructions to:
+- **Follow the on-screen instructions to:**
 
-Log in as an owner or customer.
-Register as a new customer if needed.
-Perform various operations like renting cars, managing inventory, or viewing analytics.
+- Log in as an owner or customer.
+- Register as a new customer if needed.
+- Perform various operations like renting cars, managing inventory, or viewing analytics.
 
 Dependencies
 The project uses the following Python libraries:
