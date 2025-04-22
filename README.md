@@ -38,34 +38,34 @@ CarRentalSystem/ ├── CarsDetails/ # Contains car detail documents ├─�
 - Register as a new customer if needed.
 - Perform various operations like renting cars, managing inventory, or viewing analytics.
 
-Dependencies
+### Dependencies
 The project uses the following Python libraries:
 
-matplotlib for revenue analytics visualization.
-os for file operations.
-abc for abstract base classes.
+- matplotlib for revenue analytics visualization.
+- os for file operations.
+- abc for abstract base classes.
 Refer to requirements.txt for the full list of dependencies.
 
-File Descriptions
-main.py: Entry point of the application. Handles authentication and navigation.
-Database.py: Manages data storage, retrieval, and updates.
-UserInterface.py: Base class for user interfaces.
-OwnerInterface.py: Implements owner-specific functionalities.
-CustomerInterface.py: Implements customer-specific functionalities.
-TermsAndCondtions.txt: Contains the terms and conditions for renting cars.
-CustomerActivity.txt: Logs customer activities.
-Example Data
-Terms and Conditions
-Refer to TermsAndCondtions.txt for the full terms and conditions.
+### File Descriptions
+- main.py: Entry point of the application. Handles authentication and navigation.
+- Database.py: Manages data storage, retrieval, and updates.
+- UserInterface.py: Base class for user interfaces.
+- OwnerInterface.py: Implements owner-specific functionalities.
+- CustomerInterface.py: Implements customer-specific functionalities.
+- TermsAndCondtions.txt: Contains the terms and conditions for renting cars.
+- CustomerActivity.txt: Logs customer activities.
+### Example Data
+- Terms and Conditions
+- Refer to TermsAndCondtions.txt for the full terms and conditions.
 
-Customer Activity
-Example log:
+### Customer Activity
+- Example log:
 
-Name    CarType     NameOfModel     TotalRent   BookedDate   ReturnDate
-Krish   Hatchback   Ford Figo       3400        02/02/2025   ---
-Mohit   SUV         Jeep Compass    4500        13/01/2025   13/01/2025
+- **Name    CarType     NameOfModel     TotalRent   BookedDate   ReturnDate**
+- **Krish   Hatchback   Ford Figo       3400        02/02/2025   ---**
+- **Mohit   SUV         Jeep Compass    4500        13/01/2025   13/01/2025**
 
-Future Enhancements
-Add support for online payment integration.
-Implement a web-based interface for easier access.
-Enhance the analytics dashboard with more visualizations.
+### Future Enhancements
+- Add support for online payment integration.
+- Implement a web-based interface for easier access.
+- Enhance the analytics dashboard with more visualizations.
